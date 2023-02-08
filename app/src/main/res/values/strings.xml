@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HA_TP-1</string>
+    <string name="first_name_input">First name</string>
+    <string name="last_name_input">Last name</string>
+    <string name="titleUserIntel">User informations</string>
+    <string name="radioGenderSelectorTitle">Gender :</string>
+    <string name="radioGenderSelectorMale">Male</string>
+    <string name="radioGenderSelectorFemale">Female</string>
+    <string name="radioGenderSelectorOther">Other</string>
+</resources>
